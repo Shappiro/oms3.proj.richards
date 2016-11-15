@@ -16,11 +16,11 @@
     <property name="classes.dir"    value="${build.dir}/classes"/>
     <property name="obj.dir"        value="${build.dir}/obj"/>
     <property name="gensrc.dir"     value="${build.dir}/gensrc"/>
-    <property name="other.dir"      value="../../JAVA_BASE_CLASSES"/>
+    <!--<property name="other.dir"      value="lib"/>-->
 
     <!-- OMS Properties -->
     <property name="oms.version"    value="3.5.2"/>
-    <property name="oms.home"       value="/home/cifciaf/.oms/3.5.2"/>
+    <property name="oms.home"       value="lib/OMS/3.5.2"/>
     <property name="oms.loglevel"   value="OFF"/>
     <property name="oms.cli"        value="r"/>
       
